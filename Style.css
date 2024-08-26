@@ -87,11 +87,6 @@
     --transition-3: 0.3s ease-in-out;
   
   }
-  
-  
-  
-  
-  
   /*-----------------------------------*\
     #RESET
   \*-----------------------------------*/
@@ -166,8 +161,9 @@
     #REUSED STYLE
   \*-----------------------------------*/
   
-  .container { padding-inline: 16px; }
-  
+  .container { 
+    padding-inline: 16px;
+  }
   .social-list {
     display: flex;
     align-items: center;
@@ -528,8 +524,6 @@
     transition: 0.75s;
     scale: 110%;
   }
-
-  
   
   /*-----------------------------------*\
     #ABOUT
